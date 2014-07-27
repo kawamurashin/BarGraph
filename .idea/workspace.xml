@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37b6497d-0379-48de-a058-954ef767b882" name="Default" comment="" />
+    <list default="true" id="37b6497d-0379-48de-a058-954ef767b882" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/graph/BarGraph.as" afterPath="$PROJECT_DIR$/src/graph/BarGraph.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/graph/BarGraphManager.as" afterPath="$PROJECT_DIR$/src/graph/BarGraphManager.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/graph/Graph.as" afterPath="$PROJECT_DIR$/src/graph/Graph.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.as" afterPath="$PROJECT_DIR$/src/Main.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ViewManager.as" afterPath="$PROJECT_DIR$/src/ViewManager.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="BarGraph.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406432261696" ignored="false" />
+    <file path="/Main.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406434803775" ignored="false" />
     <file path="/fragment.js2" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406432613277" ignored="false" />
-    <file path="/ViewManager.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406432349761" ignored="false" />
-    <file path="/Graph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406432543413" ignored="false" />
-    <file path="$PROJECT_DIR$/../CircleGraph/src/graph/Graph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406432510402" ignored="false" />
-    <file path="/BarGraph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406432630544" ignored="false" />
+    <file path="/ViewManager.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406434962793" ignored="false" />
+    <file path="/Graph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406435316569" ignored="false" />
+    <file path="$PROJECT_DIR$/../CircleGraph/src/graph/Graph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406434422755" ignored="false" />
+    <file path="/BarGraph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406435716525" ignored="false" />
     <file path="$PROJECT_DIR$/../CircleGraph/src/graph/CircleGraphManager.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406433502146" ignored="false" />
     <file path="$PROJECT_DIR$/../CircleGraph/src/ViewManager.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406433542660" ignored="false" />
+    <file path="$PROJECT_DIR$/../CircleGraph/src/graph/CircleGraph.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406434431371" ignored="false" />
+    <file path="/BarGraphManager.as" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406436980955" ignored="false" />
+    <file path="/Dummy.txt" changelist="37b6497d-0379-48de-a058-954ef767b882" time="1406434879454" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +86,7 @@
       <file leaf-file-name="Main.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
+            <state line="27" column="80" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#11#39#0" expanded="true" />
               </folding>
@@ -86,7 +97,7 @@
       <file leaf-file-name="ViewManager.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="32" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0">
+            <state line="26" column="101" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#163#191#0" expanded="true" />
               </folding>
@@ -94,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Graph.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
+      <file leaf-file-name="BarGraphManager.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/graph/BarGraphManager.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="22" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+            <state line="45" column="32" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.20413668">
               <folding>
                 <element signature="e#169#197#0" expanded="true" />
               </folding>
@@ -105,20 +116,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BarGraph.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BarGraph.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/graph/BarGraph.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="35" selection-start="204" selection-end="204" vertical-scroll-proportion="0.026978416">
+            <state line="11" column="28" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BarGraphManager.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/graph/BarGraphManager.as">
+      <file leaf-file-name="Graph.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="60" column="15" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#169#197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,20 +143,28 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.as" />
         <option value="$PROJECT_DIR$/src/ViewManager.as" />
         <option value="$PROJECT_DIR$/src/graph/Graph.as" />
-        <option value="$PROJECT_DIR$/src/graph/BarGraphManager.as" />
         <option value="$PROJECT_DIR$/src/graph/BarGraph.as" />
+        <option value="$PROJECT_DIR$/src/Main.as" />
+        <option value="$PROJECT_DIR$/src/graph/BarGraphManager.as" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="469" />
-    <option name="y" value="521" />
+    <option name="x" value="455" />
+    <option name="y" value="113" />
     <option name="width" value="2091" />
     <option name="height" value="1260" />
   </component>
@@ -421,6 +442,8 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexRunner" />
       <method />
     </configuration>
     <list size="1">
@@ -441,7 +464,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="469" y="521" width="2091" height="1260" extended-state="0" />
+    <frame x="455" y="113" width="2091" height="1260" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -455,13 +478,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32982457" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24987775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24987775" sideWeight="0.67017543" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -530,19 +554,14 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#11#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ViewManager.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="32" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0">
+        <state line="26" column="101" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#163#191#0" expanded="true" />
           </folding>
@@ -551,24 +570,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/Graph.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="22" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
+        <state line="60" column="15" selection-start="1255" selection-end="1255" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#169#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/BarGraphManager.as">
+    <entry file="file://$PROJECT_DIR$/src/graph/BarGraph.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+        <state line="11" column="28" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/BarGraph.as">
+    <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="204" selection-end="204" vertical-scroll-proportion="0.026978416">
-          <folding />
+        <state line="27" column="80" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#11#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/BarGraphManager.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="32" selection-start="1201" selection-end="1201" vertical-scroll-proportion="0.20413668">
+          <folding>
+            <element signature="e#169#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

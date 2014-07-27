@@ -9,6 +9,8 @@ package {
 import flash.display.Sprite;
 import flash.events.Event;
 
+import graph.BarGraphManager;
+
 public class ViewManager extends Sprite{
     public function ViewManager() {
         if(stage)init(null);
@@ -22,6 +24,11 @@ public class ViewManager extends Sprite{
     }
 
     private function layout():void {
+
+        var barManager:BarGraphManager = new BarGraphManager();
+        addChild(barManager);
+        barManager.x = 300;
+        barManager.y = 300;
 
     }
 }

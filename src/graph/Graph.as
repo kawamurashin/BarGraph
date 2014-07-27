@@ -10,12 +10,13 @@ import flash.display.Sprite;
 import flash.events.Event;
 
 public class Graph extends Sprite{
-    public var volume:Number = 100;
+    private var _volume:Number = 100;
 
     protected const MAX_VOLUME:uint = 100;
     protected var container:Sprite;
     protected var _color:uint = 0;
-    protected var max_width:Number = 400;
+    protected var bar_width:Number = 400;
+    protected var bar_height:Number = 40;
 
     public function Graph() {
         if(stage)init(null);
@@ -33,6 +34,7 @@ public class Graph extends Sprite{
     {
 
     }
+
     private function init(event:Event):void {
         removeEventListener(Event.ADDED_TO_STAGE,init);
         //
@@ -48,6 +50,15 @@ public class Graph extends Sprite{
 
     public function set color(value:uint):void {
         _color = value;
+    }
+
+    public function get volume():Number {
+        return _volume;
+    }
+
+    public function set volume(value:Number):void {
+        _volume = value;
+        draw();
     }
 }
 }
